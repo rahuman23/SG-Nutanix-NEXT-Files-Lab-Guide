@@ -71,16 +71,8 @@ Credentials
      - Password
    * - Prism Element
      - admin
-     - Nutanix.NEXT2019
-   * - Prism Central
-     - admin
-     - Nutanix.NEXT2019
-   * - Controller VM
-     - nutanix
-     - Nutanix.NEXT2019
-   * - Prism Central VM
-     - nutanix
-     - Nutanix.NEXT2019
+     - nx2Tech516!
+
 
 Each cluster has a dedicated domain controller VM, **DC**, responsible for providing AD services for the **NTNXLAB.local** domain. The domain is populated with the following Users and Groups:
 
